@@ -1,0 +1,4 @@
+0 Guvercin
+1 Serce
+2 Karga
+3 Diger
