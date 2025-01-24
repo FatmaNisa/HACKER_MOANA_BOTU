@@ -224,7 +224,7 @@ async def resmi_tanimla(ctx):
         await ctx.send("Herhangi bir resim göndermedin")
 
 
-bot.run("MTMxOTcxMDkzNzU1MjM5MjIwMg.GOUc82.w2e_Dt-WMe38MlqykFGH83Hk3M9_qUHmBQjTRg")
+bot.run("")
 
 
 
